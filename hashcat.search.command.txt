@@ -1,0 +1,1 @@
+hashcat -h | grep -iF "sha512crypt"
